@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>http//.www.webshell.com</title>
+    <link rel="stylesheet" href="www.css">
+</head>
+<body>
+    <div class="main"
+    <div class="navbar"
+    <div class="icon"</div>
+    <h2 class="logo">WEB_SHell</h2>
+    <div class="menu">
+        <ul>
+            <li><a href="https://modvovo.com/trader-life-simulator-2-mobile-download-for-android-ios/">Home</a></li>
+            <li><a href="https://www.fiverr.com/users/suleman_al/manage_gigs/do-something-i-am-better-in-this/edit">About</a></li>
+            <li><a href="#">Service</a></li>
+            <li><a href="#">Design</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+        <div class="search">
+            <input class="srch"  type="search" Name="" placeholder="Type to Text">
+            <a href="#"><button class="btn">Search</button></a>
+            <div class="content"</div>
+            <h1>web Design <br><span>Development</span><br>Course</h1>
+            <div class="join"><button class="jbtn"><a href="#">Join Us</button></div></a>
+           <div class="img"><img src="showcase.jpg" alt="here is a picture" ></div>
+        </div>
+    </div>
+     </div>
+    </div>
+</body>
+</html>
